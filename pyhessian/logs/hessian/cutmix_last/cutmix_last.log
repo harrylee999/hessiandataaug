@@ -1,0 +1,9 @@
+INFO:Hessian:fedavg	../data/cifar10	./logs/cutmix_last.pt
+
+INFO:Hessian:./logs/cutmix_last.pt
+INFO:Hessian:***Top Eigenvalues: [19.0624942779541, 14.124805450439453]
+INFO:Hessian:***Trace: 419.06132888793945
+INFO:Hessian:***Diag: [ 9.19351869e+01  1.06552328e+00  7.14716349e+01 -3.16232756e-01
+  1.75309116e+02  1.60643756e-02  4.81396856e+01  1.73193902e-01
+  3.06028532e+01  6.64312609e-01]
+INFO:root:************* cutmix_last Acc = 54.49 **************

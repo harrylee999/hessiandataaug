@@ -1,0 +1,9 @@
+INFO:Hessian:fedavg	../data/cifar10	./logs/mixup+_last.pt
+
+INFO:Hessian:./logs/mixup+_last.pt
+INFO:Hessian:***Top Eigenvalues: [0.8455732464790344, 0.5058303475379944]
+INFO:Hessian:***Trace: 23.998061106755184
+INFO:Hessian:***Diag: [ 2.14344892e+00 -7.24297705e-03  3.26479109e+00 -8.46963483e-04
+  1.45565806e+01  2.86619795e-03  2.84871064e+00  1.10825026e-02
+  1.17321969e+00  5.45114422e-03]
+INFO:root:************* mixup+_last Acc = 51.47 **************

@@ -1,0 +1,1 @@
+{"method": "fedavg", "data_dir": "data/cifar10", "batch_size": 512}

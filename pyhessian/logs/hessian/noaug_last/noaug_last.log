@@ -1,0 +1,9 @@
+INFO:Hessian:fedavg	../data/cifar10	./logs/noaug_last.pt
+
+INFO:Hessian:./logs/noaug_last.pt
+INFO:Hessian:***Top Eigenvalues: [0.04286975786089897, 0.02577725239098072]
+INFO:Hessian:***Trace: 3.147431874886537
+INFO:Hessian:***Diag: [ 3.85220089e-01 -1.96362977e-03  4.78020141e-01 -5.23189811e-04
+  1.40375927e+00  1.16672886e-04  5.62381846e-01  3.22573723e-06
+  3.19319354e-01  1.09807781e-03]
+INFO:root:************* noaug_last Acc = 45.08 **************
